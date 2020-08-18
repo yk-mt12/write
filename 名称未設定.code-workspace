@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "write-書く為のテーマ"
+	}
+}
